@@ -73,7 +73,7 @@
     "rollup-plugin-peer-deps-external": "^2.2.4",
     "rollup-plugin-postcss": "^4.0.2",
     "storybook": "^8.0.9",
-    "webpack": "^5.91.0"
+    "webpack": "^5.94.0"
   },
   "peerDependencies": {
     "react": "^18.2.0",
